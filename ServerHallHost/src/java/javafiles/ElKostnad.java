@@ -4,7 +4,7 @@ import java.util.Date;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
 
-@XmlRootElement(name = "elkostnadtabel")
+@XmlRootElement(name = "elkostnadtable")
 public class ElKostnad implements Serializable
 {
 
